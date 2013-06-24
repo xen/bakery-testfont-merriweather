@@ -5,8 +5,8 @@ out_ufo: {sources/otf/Merritest-Bold.ufo: New-Bold, sources/otf/Merritest-BoldIt
   sources/otf/Merritest-Heavy.ufo: New-Heavy, sources/otf/Merritest-HeavyItalic.ufo: New-HeavyItalic,
   sources/otf/Merritest-Italic.ufo: New-Italic, sources/otf/Merritest-Light.ufo: New-Light,
   sources/otf/Merritest-LightItalic.ufo: New-LightItalic, sources/otf/Merritest-Regular.ufo: New-Regular}
-rename: true
-subset: [menu, latin, latin-ext+latin]
+rename: false
+subset: [latin, latin-ext+latin]
 ttfautohint: -l 7 -r 28 -G 0 -x 13 -w "" -W -c
 ttfautohintuse: true
 txt_files: [FONTLOG.txt, OFL.txt, README.md]
