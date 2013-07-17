@@ -1,4 +1,5 @@
 autoprocess: true
+
 license_file: OFL.txt
 license_file_found: false
 out_ufo: {sources/otf/Merritest-Bold.ufo: Merritest-Bold, sources/otf/Merritest-BoldItalic.ufo: Merritest-BoldItalic,
